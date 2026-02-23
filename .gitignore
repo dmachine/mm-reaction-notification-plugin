@@ -1,0 +1,17 @@
+# Build artifacts
+dist/
+server/dist/
+webapp/dist/
+
+# Dependencies
+node_modules/
+webapp/node_modules/
+
+# OS files
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
